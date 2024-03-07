@@ -1,3 +1,33 @@
+### 👋 Hola, soy MARTINA.
+
+💼 Soy Full Stack Developer.
+
+📚 Estudié Ingeniería Industrial y luego me especialicé en el Desarrollo Web.
+
+⚡️ El lenguaje que mas me gusta es javaScript.
+
+💬 Tengo un nivel de ingles avanzado.
+
+🧠 Tengo conocimientos en
+<br/>
+<br/>
+<div align="center" >
+<img  width="484" alt="image" src="https://github.com/Martinasorialanzi/Martina-Soria-Lanzi/assets/104227744/10d85437-43e4-4425-a980-493c19a0a05b">
+</div>
+<br/>
+<br/>
+
+📫 Me puedes encontrar en las siguientes redes:
+
+<p align="center">
+<p align="center">
+<a href= "https://github.com/Martinasorialanzi"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/martinasorialanzi/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://mmsorialanzi.vercel.app/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+
+
 ### Hi there 👋
 
 <!--
