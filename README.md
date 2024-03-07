@@ -12,7 +12,7 @@
 <br/>
 <br/>
 <div align="center" >
-<img  width="484" alt="image" src="https://github.com/Martinasorialanzi/Martina-Soria-Lanzi/assets/104227744/10d85437-43e4-4425-a980-493c19a0a05b">
+  <img width="484" alt="image" src="https://github.com/Martinasorialanzi/Martinasorialanzi/assets/104227744/a908d3bf-461a-40d3-a4fe-e9a2c9ef87eb">
 </div>
 <br/>
 <br/>
