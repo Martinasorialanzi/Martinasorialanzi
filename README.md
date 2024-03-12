@@ -1,14 +1,12 @@
-### 👋 Hola, soy MARTINA.
+### 👋  Hello, I'm MARTINA..
 
-💼 Soy Full Stack Developer.
+💼 I'm a Full Stack Developer.
 
-📚 Estudié Ingeniería Industrial y luego me especialicé en el Desarrollo Web.
+📚  I studied Industrial Engineering and later specialized in Web Development.
 
-⚡️ El lenguaje que mas me gusta es javaScript.
+⚡️  My favorite language is JavaScript.
 
-💬 Tengo un nivel de ingles avanzado.
-
-🧠 Tengo conocimientos en
+🧠  I have knowledge in:
 <br/>
 <br/>
 <div align="center" >
@@ -17,7 +15,7 @@
 <br/>
 <br/>
 
-📫 Me puedes encontrar en las siguientes redes:
+📫You can find me on the following networks:
 
 <p align="center">
 <p align="center">
